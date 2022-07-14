@@ -8,3 +8,6 @@ The following are skills that I will demonstrate:
 Create an HTML page from scratch 
 Use CSS to stylize the website
 Use Flexbox to align the elements on the page
+
+Images used:
+Photo was taken by Pixabay https://www.pexels.com/@pixabay/
