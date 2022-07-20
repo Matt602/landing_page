@@ -60,3 +60,20 @@ ul {
     font-weight: bold;
     font-size: 18px;
 }
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    color: #1F2937;
+    padding: 40px 180px;
+    margin: 60px 0px 40px 0px;
+    font-size: 24px;
+    
+}
+
+.god {
+    align-self: flex-end;
+    font-size: 20px;
+    font-weight: bold;
+}
