@@ -51,11 +51,6 @@ ul {
     border-radius: 15px;
 }
 
-.signButton {
-    align-self: flex-end;
-    
-}
-
 .top-sign {
     font-weight: bold;
     font-size: 18px;
@@ -103,4 +98,31 @@ img {
 
 .header2 {
     margin-bottom: 100px;
+    display: flex;
+    background-color: #1F2937;
+    padding: 80px 100px;
+    gap: 20px;
+}
+
+.text,
+.text2 {
+    color: #F9FAF8; 
+}
+
+.text {
+    font-size: 48px;
+
+}
+
+button {
+    background-color: #3882F6;
+    border-radius: 8px;
+    padding: 5px 12px;
+    color: white;
+    border-color: white;
+}
+
+.button2 {
+    align-self: flex-end;
+    
 }
